@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TooxDev
+- 👀 I’m interested in full-stack web development
+- 🌱 I’m currently learning all technologies related to webdev
+- 📫 How to reach me? write to tooxdev as the first part of the email and then gmail with dotcom at the end
